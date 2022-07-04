@@ -45,20 +45,25 @@ void imprimePila(Nodo *&pila) {
 void quitaTodos(Nodo*& pila, int &n) {
 	Nodo* aux = pila;
 	while (aux != nullptr)
-		push(aux, n);
+		pop(aux, n);
 }
 
 int main(){
     Nodo *pila = nullptr;
     char op;
     int dato;
-    do{
-        cout << "Ingrese un dato: ";
-        cin >> dato;
-        push(pila, dato);
-        cout << "Desea continuar agregando datos?(s/n)";
-        cin >> op;
-    } while (op == 's');
+
+    cout << "Ingrese un dato: ";
+    cin >> dato;
+    push(pila, dato);
+    
+    cout << "Ingrese un dato: ";
+    cin >> dato;
+    push(pila, dato);
+    
+    cout << "Ingrese un dato: ";
+    cin >> dato;
+    push(pila, dato);
 
     cout << "-- DATOS DE LA PILA --" << endl;
     imprimePila(pila);

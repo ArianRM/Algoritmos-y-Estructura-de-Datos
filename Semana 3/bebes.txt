@@ -1,0 +1,16 @@
+---- REGISTRO DE NACIMIENTO ----
+[Nombre del bebé:]
+[Apellidos del bebé:carlos]
+[Madre del bebé:roxi]
+[Padre del bebé:arian]
+[Hora de nacimiento:32]
+[Fecha de nacimiento:fda]
+[Lugar de nacimiento:adf]
+---- REGISTRO DE NACIMIENTO ----
+[Nombre del bebé:af]
+[Apellidos del bebé:adf]
+[Madre del bebé:afd]
+[Padre del bebé:a]
+[Hora de nacimiento:fasd]
+[Fecha de nacimiento:fsa]
+[Lugar de nacimiento:dfs]

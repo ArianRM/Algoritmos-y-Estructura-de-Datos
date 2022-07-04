@@ -1,0 +1,8 @@
+---- REGISTRO DE NACIMIENTO ----
+[Nombre del bebé:Carlitos Mixwell]
+[Apellidos del bebé:Ramirez Mendoza]
+[Madre del bebé:Roxi Mendoza]
+[Padre del bebé:Arian Ramirez]
+[Hora de nacimiento:23:23]
+[Fecha de nacimiento:23/23/23]
+[Lugar de nacimiento:Lema - Piru]
